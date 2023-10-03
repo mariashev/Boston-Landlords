@@ -1,9 +1,8 @@
-# Bad-Landlords-SPARK-Project
-Team 4
+# Bad Landlords: City of Boston Project
 
 ## Our Team:
 
-* [Maria Shevchuk ('23)](https://github.com/mariashev) - Team Rep
+* [Maria Shevchuk ('23)](https://github.com/mariashev) - Team Lead
 * [Francesco Ciraolo ('23)](https://github.com/FrancescoCiraolo)
 * [Aaron Liauw ('23)](https://github.com/aliau-cmyk)
 * [Eddie Jones ('23)](https://github.com/ewj327)
